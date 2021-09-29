@@ -1,5 +1,5 @@
 def addOne(a):
-  return a+2
+  return a+1
 
 val = 5
 print addOne(val)
